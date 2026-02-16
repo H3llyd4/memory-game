@@ -56,7 +56,7 @@ function mostrarAlerta() {
   alerta.style.color = "white";
   alerta.style.borderRadius = "10px";
   alerta.style.fontWeight = "bold";
-  alerta.style.fontSize = "2em";
+  alerta.style.fontSize = "1.8em";
 
   document.body.appendChild(alerta);
 
